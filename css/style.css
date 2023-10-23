@@ -242,7 +242,7 @@ ol,p,ul{margin-top:0;margin-bottom:1rem}ol,p,ul{margin-bottom:1rem}img,svg{verti
 #es-rc #es-rc-content .es-description__list {
   text-align: left;
   list-style-type: none;
-  padding-left: 3%;
+  padding-left: 18%;
 }
 @media (min-width: 450px) {
   #es-rc #es-rc-content .es-description__list {
